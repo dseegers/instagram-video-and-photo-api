@@ -4,7 +4,7 @@ instagram-video-and-photo-api
 Originally code written by [LookHin](https://github.com/LookHin/instagram-photo-video-upload-api)
 
 
-To call the class
+If you want to use the class, you can do this
 
 ```
 
