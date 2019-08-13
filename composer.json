@@ -1,0 +1,9 @@
+
+{
+  "name": "dseegers/instagram-video-and-photo-api",
+  "description": "Instagram Video and Photo api",
+  "license": "MIT",
+      "psr-4": {
+      "HelloInstagram\\": "src"
+    }
+  }
