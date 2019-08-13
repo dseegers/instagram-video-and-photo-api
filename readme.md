@@ -1,10 +1,14 @@
 #Composer package for 
 instagram-video-and-photo-api
 
-Originally code written by [LookHin](https://github.com/LookHin/instagram-photo-video-upload-api)
+The original code was written by [LookHin](https://github.com/LookHin/instagram-photo-video-upload-api)
+
+I have changed it in a composer package
 
 
-If you want to use the class, you can do this
+If you want to use the class, you can do this.
+
+**You need to autoload composer if you want to use the package**
 
 ```
 
